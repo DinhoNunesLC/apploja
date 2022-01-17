@@ -1,1 +1,1 @@
-# apploja
+# API LOJA DE APPS
