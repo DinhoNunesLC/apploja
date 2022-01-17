@@ -1,4 +1,3 @@
-<!-- DESENVOLVIDO POR DINHO NUNES LC | dinhonuneslc@gmail.com / +55 (99) 9 8439-1782 -->
 <?php
 
 # PERSONALIZAÇÃO
